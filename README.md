@@ -12,27 +12,27 @@ La guía se dividirá en las siguientes secciones:
 
 1. Introducción al análisis de datos:
 
-¿Qué es el análisis de datos?
-¿Por qué es importante el análisis de datos?
-Aplicaciones del análisis de datos
+- ¿Qué es el análisis de datos?
+- ¿Por qué es importante el análisis de datos?
+- Aplicaciones del análisis de datos
 
 2. Introducción a Python para el análisis de datos:
 
-Instalación de Python y herramientas básicas
-Conceptos básicos de programación en Python
-Librerías de Python para el análisis de datos
+- Instalación de Python y herramientas básicas
+- Conceptos básicos de programación en Python
+- Librerías de Python para el análisis de datos
 
 3. Limpieza y manipulación de datos:
 
-Lectura y carga de datos
-Limpieza de datos
-Manipulación de datos
+- Lectura y carga de datos
+- Limpieza de datos
+- Manipulación de datos
 
 4. Análisis exploratorio de datos:
 
-Descripción de datos
-Visualización de datos
-Encontrar patrones en los datos
+- Descripción de datos
+- Visualización de datos
+- Encontrar patrones en los datos
 
 ## Contacto
 
